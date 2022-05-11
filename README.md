@@ -1,8 +1,5 @@
 # proekt
 Solve equation
 
-$u(x,t)$ - решение, которое нужно найти. \
-$N(u(x,t), λ)$ - нелинейный оператор параметризованный по $λ$ \
-- <img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
-- <img src="https://latex.codecogs.com/gif.latex?s=\text { sensor reading }  " /> 
-- <img src="https://latex.codecogs.com/gif.latex?P(s | O_t )=\text { Probability of a sensor reading value when sleep onset is observed at a time bin } t " />
+
+![image](https://user-images.githubusercontent.com/68564759/167892664-734ef863-549f-4032-9a41-530991af902e.png)
