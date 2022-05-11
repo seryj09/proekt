@@ -18,6 +18,6 @@ u(x,t) - решение;
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="MSE = MSE_u+MSE_f" />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="MSE_u = \frac{1}{N_u} \sum\limits_{1}^{N_u}|u(x^i_u , t^i_u)-u^i|^2" />
+<img src="https://latex.codecogs.com/svg.latex?MSE_u = \frac{1}{N_u} \sum\limits_{1}^{N_u}|u(x^i_u , t^i_u)-u^i|^2" title="MSE_u = \frac{1}{N_u} \sum\limits_{1}^{N_u}|u(x^i_u , t^i_u)-u^i|^2" />
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="MSE_f = \frac{1}{N_f} \sum\limits_{1}^{N_f}|f(x^i_f , t^i_f)|^2" />
