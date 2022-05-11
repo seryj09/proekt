@@ -12,12 +12,10 @@ Solve equation using Neural Networks
 
 # 2) 
 Правила вычисления Loss:
+
 Считаем Loss как квадрат потери ошибки:
+
 u(x,t) - решение;
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="f(x,t,λ) = u_t + N(u(x,t),λ) " />
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="MSE = MSE_u+MSE_f" />
+<img width="292" alt="image" src="https://user-images.githubusercontent.com/68564759/167895856-5c14785c-a7a2-4334-a599-c2a6ca99b133.png">
 
-<img src="https://latex.codecogs.com/svg.latex?MSE_u = \frac{1}{N_u} \sum\limits_{1}^{N_u}|u(x^i_u , t^i_u)-u^i|^2" title="MSE_u = \frac{1}{N_u} \sum\limits_{1}^{N_u}|u(x^i_u , t^i_u)-u^i|^2" />
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="MSE_f = \frac{1}{N_f} \sum\limits_{1}^{N_f}|f(x^i_f , t^i_f)|^2" />
