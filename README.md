@@ -1,0 +1,2 @@
+# proekt
+Solve equation
